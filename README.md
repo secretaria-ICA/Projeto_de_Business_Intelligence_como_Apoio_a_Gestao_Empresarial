@@ -1,7 +1,7 @@
-# Projeto de business intelligence como apoio à gestão empresarial: Um estudo de caso
+# Projeto de Business Intelligence como Apoio à Gestão Empresarial: Um estudo de caso
 
 #### Aluno: [Juliana Barboza de Faria](https://github.com/jbfaria)
-#### Orientador(/a/es/as): [Anderson Nascimento](https://github.com/insightds) 
+#### Orientador: [Anderson Nascimento](https://github.com/insightds) 
 
 ---
 
